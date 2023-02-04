@@ -1,0 +1,27 @@
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+form {
+  text-align: center;
+  padding: 20px;
+}
+
+.result {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.detail-btn,
+.bookmark-btn {
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
